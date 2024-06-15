@@ -1,0 +1,108 @@
+@font-face {
+    font-family: italic ;
+    src: url(fonts/Segoe\ UI\ Italic.ttf);
+}
+
+body {
+    overflow-x: hidden; /* Hide scrollbars */
+  }
+
+.mobile{  position: relative; top: 4px; left: 225px;  }
+
+
+.b1{  border: 1px solid #DBDBDB; width: 27%; height: 450px; 
+
+     position: relative; left: 53%; bottom: 580px ; }
+
+
+.name{ position: relative; left: 59% ; bottom:  995px ;   }
+
+
+.text{ width: 23% ; height: 38px ; position: relative; left: 40.10% ; bottom: 940px; padding: 4px;
+    
+     border: 1px solid #DBDBDB; background-color: #FAFAFA; border-radius: 3px ; }
+
+
+.pass{ width: 23% ; height: 38px ; position: relative; left: 16% ; bottom: 885px; padding: 4px;
+    
+border: 1px solid #DBDBDB; background-color: #FAFAFA; border-radius: 3px ; }
+
+.log{ width: 23% ; height: 32px ; position: relative; left: 55% ; bottom: 860px;
+    
+    border: 1px solid #4CB4F8; background-color: #4CB4F8 ; border-radius: 9px ; }
+
+
+@font-face {
+    font-family: segoe ;
+    src: url(fonts/Segoe\ UI\ Bold.ttf);
+}
+
+.in{ font-family: segoe; font-size: 14px; height: 18px; color: #FFFAFC;  display: inline;
+
+    position: relative; left: 65% ; bottom: 887px;  } 
+
+.in1:link{ text-decoration: none; font-family: segoe; font-size: 14px; height: 18px; color: #FFFAFC;  display: inline;
+
+    position: relative; left: 65% ; bottom: 887px;    }
+
+.in1:visited{  color:  #FFFAFC ;font-family: segoe; font-size: 14px; height: 18px; display: inline;
+
+    position: relative; left: 65% ; bottom: 887px;    }
+
+
+.or{ font-family: segoe; font-size: 14px; height: 18px; color:#7B737B;  display: inline;
+
+    position: relative; left: 62.20% ; bottom: 842px; }
+
+.or1{ width: 9% ; height: 0px ; position: relative; left: 55.10% ; bottom: 855px;
+    
+    border: 1px solid #DBDBDB; background-color:#7B737B; border-radius: 3px ;  }
+
+.or2{ width: 9% ; height: 0px ; position: relative; left: 69% ; bottom: 857px;
+    
+    border: 1px solid #DBDBDB; background-color: #7B737B; border-radius: 3px ; }  
+
+
+
+.face{font-family: segoe; font-size: 14px; height: 18px; color: #385185;  display: inline;
+
+    position: relative; left: 62% ; bottom: 830px;     }
+
+.facebook{  display: inline; position: relative; left: 47.70%; bottom: 830px;  }
+
+
+@font-face {
+    font-family: simple ;
+    src: url(fonts/Segoe\ UI.ttf);
+}
+
+.forgot{ font-family: simple; font-size: 12px; height: 16px; color: gray;  display: inline;
+
+    position: relative; left: 49.50% ; bottom: 800px;    }
+
+
+.show{   font-family: segoe; font-size: 15px; height: 18px; color:#5E5E5E;  display: inline;
+
+    position: relative; left: 53% ; bottom:975px;   }
+
+
+.dont{  border: 1px solid   #DBDBDB ; width: 27%; height: 64px;  
+
+      position: relative;  left: 53%; bottom: 720px;   }
+
+
+.have{ font-family: simple; font-size: 14px; height: 18px; color: black;  display: inline;
+
+    position: relative; left: 57% ; bottom: 795px;  }
+
+.an{ font-family: segoe; font-size: 14px; height: 18px; color: #4CB4F8;  display: inline;
+
+    position: relative; left: 57% ; bottom: 795px;  }
+
+
+.page{ position: relative;  left: 40% ; bottom: 670px; }
+
+
+.app{  font-family: simple; font-size: 14px; height: 18px; 
+       
+      color: black; position: relative; left: 63%;  bottom: 770px ;     }

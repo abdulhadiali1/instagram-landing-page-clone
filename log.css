@@ -1,0 +1,356 @@
+
+
+    body {
+        overflow-x: hidden; /* Hide scrollbars */
+      }
+
+@font-face {
+    font-family: hadi ;
+    src: url(fonts/Segoe\ UI\ Bold.ttf);
+}
+
+@font-face {
+    font-family: regular ;
+    src: url( fonts/Segoe\ UI.ttf );
+}
+
+.aside{display: inline;}
+
+.name{ display: inline; position: relative; left:2%; top: 12px ;  }
+
+.home{   display: inline; position: relative; top: 89px; ;right:9% ; font-family: hadi; 
+
+       font-size: 16px; height: 20px; }
+
+.h:link{ text-decoration: none;  }
+
+.h:visited{ color: black; }
+
+.search{ display: inline; position: relative; top: 144px; ;right:12.80% ; font-family: regular;
+
+        font-size: 16px; height: 20px;  }
+
+.s:link{ text-decoration: none;  }
+
+.s:visited{ color: black; }
+
+.explore{ display: inline; position: relative; top: 199px; ;right:16.70% ; font-family: regular;
+
+    font-size: 16px; height: 20px;  }
+
+.e:link{ text-decoration: none;  }
+
+.e:visited{ color: black; }
+
+.reel{ display: inline; position: relative; top: 258px; ;right:20.97% ; font-family: regular;
+
+    font-size: 16px; height: 20px;  }
+
+.r:link{ text-decoration: none;  }
+
+.r:visited{ color: black; }
+
+.message{ display: inline; position: relative; top: 310px; ;right:24.10% ; font-family: regular;
+
+    font-size: 16px; height: 20px; color: #000000;  }
+
+.m:link{ text-decoration: none;  }
+
+.m:visited{ color: black; }
+
+.notification{ display: inline; position: relative; top: 370px; ;right:29.92% ; font-family: regular;
+
+    font-size: 16px; height: 20px;  }
+
+.n:link{ text-decoration: none;  }
+
+.n:visited{ color: black; }
+
+.create{ display: inline; position: relative; top: 430px; ;right:37.30% ; font-family: regular;
+
+    font-size:16px; height: 20px;  }
+
+.c:link{ text-decoration: none;  }
+
+.c:visited{ color: black; }
+
+.profile{ display: inline; position: relative; top: 490px; ;right:41% ; font-family: regular;
+
+    font-size: 16px; height: 20px;  }
+
+.p:link{ text-decoration: none;  }
+
+.p:visited{ color: black; }
+
+.more{ display: inline; position: relative; top: 550px; ;right:44.85% ; font-family: regular;
+
+    font-size:16px; height: 20px;  }
+
+.mo:link{ text-decoration: none;  }
+
+.mo:visited{ color: black; }
+
+
+.id{ display: inline; position: relative; right: 57%; top: 9px; }
+
+.id1{ position: relative; left: 27%; top: 9px;  }
+
+.id2{ position: relative; left: 27.60%;  top: 7px;  }
+
+.id3{ position: relative; left: 28.10%; top: 8px;}
+
+.id4{ position: relative; left: 28.50%;  top: 7px;  }
+
+.id5{ position: relative; left: 29.20%;  top: 4px;  }
+
+.id6{ position: relative; left: 29.58% ;  top:4px; }
+
+.id7{ position: relative; left: 30%;  top: 6px; }
+
+@font-face {
+    font-family: poppins ;
+    src: url(fonts/Segoe\ UI\ Bold.ttf);
+}
+
+.zaid{ font-family: poppins; font-size: 14px; height: 18px; display: inline;
+    
+       position: relative; left: 78.30%; bottom: 63px;     }
+
+@font-face {
+    font-family:segoe ;
+    src: url(fonts/Segoe\ UI.ttf);
+}
+.shaikh{ font-family: segoe; color:gray;  font-size: 14px; height: 18px;  display: inline;
+    
+    position: relative; left: 72.70%; bottom: 46px;  }
+
+
+.switch{  font-family: poppins; color: #00376B ; font-size: 12px; height: 18px;  display: inline;
+    
+     position: relative; left: 82%; bottom: 53px; }
+
+.sw:link{ text-decoration: none;  }
+
+.sw:visited{ color:  #4CB4F8 ; }
+
+
+.plane{  position: relative;  top: 52px; left: %;  }
+
+.icon1{ display: inline; position: relative; bottom: 4px; left: 2.50%;  }
+
+.icon2{ display: inline; position: relative; top: 55px; left: 4px;   }
+
+.icon3{ display: inline; position: relative; top: 110px; right: 22px;  }
+
+.icon4{ display: inline; position: relative; top: 167px; right: 49px;  }
+
+.icon5{ display: inline; position: relative; top: 459px; right: 75px;  }
+
+.icon6{ display: inline; position: relative; top: 279px; right: 104px;   }
+
+.icon7{   display: inline; position: relative; top: 223px; right: 132px; }
+
+.icon8{  display: inline; position: relative; top: 339px; right: 157px;   }
+
+.icon9{  display: inline; width: 50px ; 
+    
+    position: relative; top: 415px; left: 2% ;  }
+
+.zaid1 {  display: inline; position: relative; bottom: 106px; left: 69%;   }
+
+
+.f{ font-family: poppins; font-size: 14px; height: 18px; color: #737373; display: inline;
+    position: relative; left: 65%; bottom: 70px;      }
+
+.all{font-family: poppins; font-size: 12px; height: 16px; color: #000000; display: inline;
+    position: relative; left: 76.30%; bottom: 70px;    }
+
+
+.front{  display: inline; position: relative; left: 53%;    }
+
+.faizan{  display: inline; position: relative; left: 53.40%; bottom: 29px ;  font-family: poppins;
+
+        font-size: 14px; height: 18px; color: #000000;     }
+
+.fol{  font-family: poppins; color: #00376B ; font-size: 12px; height: 16px;  display: inline;
+    
+position: relative; left: 62.60%; bottom: 21px; }
+       
+.follow:link{ text-decoration: none;  }
+       
+.follow:visited{ color:  #4CB4F8 ; }
+
+.insta{ font-family: segoe; font-size: 12px; height: 16px; color: #737373; display: inline;
+
+position: relative; left: 44.25%; bottom: 11px; }
+
+
+
+
+.front1{  display: inline; position: relative; left: 31.55%;  top: 60px;  }
+
+.doctor{  display: inline; position: relative; left: 32.30%; top: 29px ;  font-family: poppins;
+
+        font-size: 14px; height: 18px; color: #000000;     }
+
+.fol1{  font-family: poppins; color: #00376B ; font-size: 12px; height: 16px;  display: inline;
+    
+position: relative; left: 41.50%;  top: 37px; }
+       
+.follow1:link{ text-decoration: none;  }
+       
+.follow1:visited{ color:  #4CB4F8 ; }
+
+.insta1{ font-family: segoe; font-size: 12px; height: 16px; color: #737373; display: inline;
+
+position: relative; left: 23.83%; top: 48px; }
+
+
+
+
+.front2{  display: inline; position: relative; left: 10.70%;  top: 120px;  }
+
+.ubaid{  display: inline; position: relative; left: 11.50%; top: 89px ;  font-family: poppins;
+
+        font-size: 14px; height: 18px; color: #000000;     }
+
+.fol2{  font-family: poppins; color: #00376B ; font-size: 12px; height: 16px;  display: inline;
+    
+position: relative; left: 21.50%;  top: 97px; }
+       
+.follow2:link{ text-decoration: none;  }
+       
+.follow2:visited{ color:  #4CB4F8 ; }
+
+.insta2{ font-family: segoe; font-size: 12px; height: 16px; color: #737373; display: inline;
+
+position: relative; left: 4%; top: 108px; }
+
+
+
+.front3{  display: inline; position: relative; right: 8.62%;  top: 180px;  }
+
+.aman{  display: inline; position: relative; right: 7.90%; top: 150px ;  font-family: poppins;
+
+        font-size: 14px; height: 18px; color: #000000;     }
+
+.fol3{  font-family: poppins; color: #00376B ; font-size: 12px; height: 16px;  display: inline;
+    
+position: relative; left: 3%;  top: 165px; }
+       
+.follow3:link{ text-decoration: none;  }
+       
+.follow3:visited{ color:  #4CB4F8 ; }
+
+.insta3{ font-family: segoe; font-size: 12px; height: 16px; color: #737373; display: inline;
+
+position: relative; right: 13.95%; top: 169px; }
+
+
+
+
+
+
+.post{  display: inline; position: relative ; left: 22.50%;  }
+
+.postid{ display: inline; position: relative;  bottom: 520px; right: 19%;  }
+
+.islam{ display: inline; font-family: poppins; font-size: 14px; height: 18px; color: #000000;
+
+        position: relative; bottom: 530px ; right: 230px ;   }  
+
+.td{  position: relative;  }
+
+.time{  display: inline; position: relative;left: 37.80%; bottom: 549px;  }
+
+.dot{   display: inline; position: relative;left: 61.80%; bottom: 549px;  }
+
+.heart{ display: inline; position: relative; left: 27.40% ; bottom: 510px;  }
+
+.com{ display: inline; position: relative; left: 28.30% ; bottom: 510px;  }
+
+.ab{  display: inline; position: relative; left: 29% ; bottom: 507px;    }
+
+.mark  {  display: inline; position: relative; left: 60% ; bottom: 508px;    }
+
+.like{  display: inline; position: relative; left: 18.80% ; bottom: 470px;
+
+    font-family: poppins; font-size: 14px; height: 18px;color: #000000;    }
+
+.comment{    display: inline; position: relative; left: 12% ;bottom: 410px;        }
+
+
+
+
+.post1{  display: inline; position: relative ; right: 25.60%;  top: 220px;  }
+
+.postid1{ display: inline; position: relative;  bottom: 310px; right: 66%;  }
+
+.islam1{ display: inline; font-family: poppins; font-size: 14px; height: 18px; color: #000000;
+
+        position: relative; bottom: 322px ; right: 820px ;   }  
+
+.td1{  position: relative;  }
+
+.time1{  display: inline; position: relative;left: 35%; bottom: 360px;  }
+
+.dot1{   display: inline; position: relative;left: 60.80%; bottom: 360px;  }
+
+
+
+
+
+
+
+
+
+
+.post2{  display: inline; position: relative ; left: 27.90%;  top: 480px;   }
+
+.postid2{ display: inline; position: relative;  bottom: 40px; right: 14%;  }
+
+.islam2{ display: inline; font-family: poppins; font-size: 14px; height: 18px; color: #000000;
+
+        position: relative;bottom: 53px ; right: 170px ;   }  
+
+.td2{  position: relative;  }
+
+.time2{  display: inline; position: relative;left: 38%; bottom: 72px;  }
+
+.dot2{   display: inline; position: relative;left: 61.40%; bottom: 74px;  }
+
+
+
+
+
+
+
+
+
+
+
+
+.post3{  display: inline; position: relative ; left: 28.50%;  top: 650px;   }
+
+.postid3{ display: inline; position: relative;  top: 120px; right: 12.50%;  }
+
+.islam3{ display: inline; font-family: poppins; font-size: 14px; height: 18px; color: #000000;
+
+        position: relative; top: 108px ; right: 12% ;   }  
+
+.td3{  position: relative;  }
+
+.time3{  display: inline; position: relative;left: 39%; top: 89px;  }
+
+.dot3{   display: inline; position: relative;left: 62.20%;top: 89px;  }
+
+
+.li{ display: inline; position: relative;bottom: 880px; left: 27%;  }
+
+.li1{ display: inline; position: relative;bottom: 73px; right: 14%;  }
+
+
+.li2{ display: inline; position: relative;top: 510px; left: 28%;  }
+
+
+

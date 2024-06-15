@@ -1,0 +1,147 @@
+
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+
+@font-face {
+    font-family: simple ;
+    src: url( fonts/Segoe\ UI.ttf );
+}
+
+
+  @font-face {
+    font-family: ui ;
+    src: url( fonts/Segoe\ UI\ Bold.ttf );
+  }
+
+.abdul{  border: 1px solid black;   height: 900px; display: inline;
+position: relative; left: 60%; top: 920px;  }
+
+.icon1{ display: inline; position: relative; bottom: 542px; left: 50%;  }
+
+.icon2{ display: inline; position: relative; bottom: 485px; left: 4px;   }
+         
+.icon3{ display: inline; position: relative; bottom: 430px; right: 22.50px;  }
+         
+ .icon4{ display: inline; position: relative; top: 167px; right: 49px;  }
+         
+.icon5{ display: inline; position: relative; top: 459px; right: 75px;  }
+         
+.icon6{ display: inline; position: relative; top: 279px; right: 104px;   }
+         
+.icon7{   display: inline; position: relative; top: 223px; right: 132px; }
+         
+.icon8{  display: inline; position: relative; top: 339px; right: 157px;   }
+         
+.icon9{  display: inline; width: 50px ; 
+             
+    position: relative; top: 415px; left: 2% ;  }
+
+.iconb{display: inline; width: 50px ; 
+             
+    position: relative; bottom: 657px; right: 20px ; }
+
+
+.note{  position: relative; left: 8%; bottom: 600px ; }
+
+.shaikh{  font-family: ui ; font-size: 20px; height: 25px; color: black;
+       
+         position: relative; left: 7.10%; bottom: 830px;    }
+
+.ms{ font-family: ui ; font-size: 16px; height: 20px; color: black;
+       
+    position: relative; left: 9%; bottom: 650px;    }
+
+
+.mid{  position: relative; left: 9%; bottom: 650px ;  }
+
+
+.my{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+ position: relative; left: 14.80%; bottom: 1108px ;   }
+
+.active{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+
+ position: relative;  left: 14.80%; bottom: 1118px ;    }
+
+
+
+ .my1{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+   position: relative; left: 14.80%; bottom: 1101px ;   }
+
+.active1{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+     
+  position: relative;  left: 14.80%; bottom: 1112px ;    }
+
+
+
+.my2{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+ position: relative; left: 14.80%; bottom: 1095px ;   }
+
+         
+ .active2{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+         
+  position: relative;  left: 14.80%; bottom: 1105px ;    }
+
+
+
+ .my3{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+  position: relative; left: 14.80%; bottom: 1084px ;   }
+
+ .active3{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+             
+position: relative;  left: 14.80%; bottom: 1095px ;    }
+
+
+
+ .my4{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+   position: relative; left: 14.80%; bottom: 1076px ;   }
+                 
+.active4{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+                 
+ position: relative;  left: 14.80%; bottom: 1087px ;    }
+
+
+
+.my5{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+ position: relative; left: 14.80%; bottom: 1070px ;   }
+
+                     
+.active5{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+                     
+ position: relative;  left: 14.80%; bottom: 1080px ;    }
+
+
+
+.my6{  font-family: ui; font-size: 14px; height: 18px; color: black; display: inline;
+
+ position: relative; left: 14.80%; bottom: 1060px ;   }
+                     
+.active6{  font-family: simple ; font-size: 12px; height: 16px; color: #737373;
+                         
+  position: relative;  left: 14.80%; bottom: 1070px ;    }
+
+
+
+  .container{ position: relative; top: 637px; background-color: ;  }
+
+
+.your{  position: relative; left: 58%; bottom: 1000px;   }
+
+
+.yourb{  border: 1px solid  #4CB4F8 ; border-radius: 10px;  width: 160px; height: 35px;
+ 
+        position: relative;  left: 66%; bottom: 1000px; background-color:  #4CB4F8; }
+
+.yourt{  font-family: ui; font-size: 14px  ; height: 18px ; color:#FAFAFA ; position: relative;
+      left: 69%; bottom: 1029px;  }
+
+.bar{ position: relative; bottom: 1290px;  left: 2% ; display: inline;  }
+
+
+.pen{  position: relative; bottom: 1300px; left: 30%; }
